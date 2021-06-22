@@ -31,3 +31,4 @@ containsCommonBetter;(array1, array2);
 // If elements that are already visited are removed from the array during the iteration, later elements will be skipped.
 // forEach loop once started cannot be stopped without killing the process thread. Think of it as a subscription. You have to unsubscribe to it for it to stop.
 // forEach does not execute the callback for the array elements without values.
+
